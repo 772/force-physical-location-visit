@@ -1,6 +1,6 @@
 # force-physical-location-visit
 
-This small proof-of-concept PHP tool can force you to visit a certain physical
+This small proof of concept PHP tool can force you to visit a certain physical
 location for several days. This is done by generating QR codes that have to
 be scanned on each day. If not scanned, you loose an important password.
 When these QR codes are placed at a certain location, you will have to visit
