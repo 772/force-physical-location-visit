@@ -1,13 +1,6 @@
 # force-physical-location-visit
 
-This small proof of concept PHP tool can force you to visit a certain physical
-location for several days. This is done by generating QR codes that have to
-be scanned on each day. If not scanned, you loose an important password.
-When these QR codes are placed at a certain location, you will have to visit
-that location.
-
-To make cheating harder, this tool generates an unique QR code for each day
-because you may find the old QR codes in your browser history.
+This proof of concept PHP tool is designed to require visits to a specific physical location over several days. It works by generating a unique QR code that must be scanned each day. If you fail to scan the QR code, you will lose an important password. The QR codes are placed at a specific location, which you will need to visit to scan them. To prevent cheating, the tool generates a unique QR code for each day, making it more difficult to reuse old codes found in your browser history.
 
 ## License
 
