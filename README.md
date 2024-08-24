@@ -4,6 +4,10 @@ This proof of concept JavaScript tool is designed to require visits to a specifi
 
 Check it out! https://772.github.io/force-physical-location-visit/
 
+## Proof of concept
+
+This is just a proof of concept. If you have basic development knowledge, you can exploit this website. A more robust solution would require a server to securely store and update the password file as needed.
+
 ## License
 
 Licensed under either of these:
