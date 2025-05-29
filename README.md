@@ -1,5 +1,7 @@
 # force-physical-location-visit
 
+![grafik](https://github.com/user-attachments/assets/2d734824-36f5-4bbb-b141-a7747196a3e6)
+
 This proof of concept JavaScript tool is designed to require visits to a specific physical location over several days. It works by generating a unique QR code that must be scanned each day. If you fail to scan the QR code, you will lose an important password. The QR codes are placed at a specific location, which you will need to visit to scan them. To prevent cheating, the tool generates a unique QR code for each day, making it more difficult to reuse old codes found in your browser history.
 
 Check it out! https://772.github.io/force-physical-location-visit/
