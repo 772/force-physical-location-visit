@@ -24,3 +24,9 @@ Licensed under either of these:
 ## Contribution
 
 Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in the work by you, as defined in the Apache-2.0 license, shall be dual licensed as above, without any additional terms or conditions.
+
+## TODO
+
+- Only one QR code and warn about browser history. It is less secure but many qr codes suck.
+- Besser description that explains the sense of this project. There might be an english Fachwort for this (e.g. Smokers who cant stop smoking)
+- Using GithubActions password to prevent cheating for users.
