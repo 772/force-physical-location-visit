@@ -31,3 +31,4 @@ Unless you explicitly state otherwise, any contribution intentionally submitted 
 
 - Only one QR code and warn about browser history. It is less secure but many qr codes suck.
 - Using GithubActions password to prevent cheating for users.
+- Make this a Rust wasm app to hide internal passwords even better?
