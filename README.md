@@ -30,5 +30,4 @@ Unless you explicitly state otherwise, any contribution intentionally submitted 
 ## TODO
 
 - Only one QR code and warn about browser history. It is less secure but many qr codes suck.
-- Besser description that explains the sense of this project. There might be an english Fachwort for this (e.g. Smokers who cant stop smoking)
 - Using GithubActions password to prevent cheating for users.
