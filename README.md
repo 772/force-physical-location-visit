@@ -1,4 +1,6 @@
-# force-physical-location-visit
+A commitment device which forces you to visit certain physical locations with qr codes.
+
+## What is force-physical-location-visit
 
 ![grafik](wiki.png)
 
